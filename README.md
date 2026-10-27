@@ -1,6 +1,7 @@
 # EdgeNotes 📌
 
-> A lightweight, modern desktop edge-snapping and auto-hiding notes & to-do widget built with **Electron**, **React**, and **Vite**.
+> A lightweight, modern desktop edge-snapping and auto-hiding notes & to-do widget built with **Electron**, **React**, and **Vite**.  
+> **Developed by GeoNovex**
 
 EdgeNotes docks seamlessly to your screen edge (Right, Left, or Top), collapsing into a subtle edge sliver when idle and expanding smoothly when you interact with it.
 
@@ -86,6 +87,13 @@ Output binaries will be located in the `dist-electron/` folder.
 
 ---
 
+## 👨‍💻 Developed By
+
+Developed with ❤️ by **[GeoNovex](https://geonovex.netlify.app)**.
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+

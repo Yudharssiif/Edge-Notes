@@ -45,7 +45,7 @@
     "edge-snapping",
     "auto-hide"
   ],
-  "author": "EdgeNotes",
+  "author": "GeoNovex",
   "license": "MIT",
   "dependencies": {
     "auto-launch": "^5.0.6",
